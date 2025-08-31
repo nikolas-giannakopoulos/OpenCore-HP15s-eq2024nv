@@ -15,6 +15,14 @@ This repository contains a **Hackintosh OpenCore EFI** configuration for the **H
 
 ---
 
+## 💾 Specs
+- CPU: Ryzen 5-5500U
+- RAM: 24 GB DDR4
+- GPU: Integrated Graphics
+- SSD: 512 GB M.2
+
+---
+
 ## 🙌 Credits & Acknowledgments
 This EFI build was mostly built with the tool 
 👉 [**lzhoang2801/OpCore-Simplify**](https://github.com/lzhoang2801/OpCore-Simplify)  
